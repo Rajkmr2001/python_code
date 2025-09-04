@@ -1,0 +1,84 @@
+Level 1: Beginner (Basics & Syntax)
+
+Focus: Variables, data types, operators, input/output, simple conditions, loops.
+
+Questions:
+
+Hello You
+Write a program that asks your name and age, then prints:
+"Hello <name>, you are <age> years old."
+
+Odd or Even
+Take an integer input from the user and print whether it is odd or even.
+
+Simple Calculator
+Ask for two numbers, then print their sum, difference, product, and division.
+
+Multiplication Table
+Ask for a number and print its multiplication table (1 to 10).
+
+Factorial Finder
+Input a number and print its factorial using a loop.
+
+Level 2: Beginner-Intermediate (Flow Control & Functions)
+
+Focus: if/else, loops, functions, lists.
+
+Questions:
+6. Max of Three
+Ask for three numbers and print the largest.
+7. Prime Checker
+Input a number and check if it is prime.
+8. List Reversal Take a list from the user and print it reversed (without using reverse() method).
+9. Count Vowels
+Input a string and count the vowels in it.
+10. Fibonacci Sequence
+Print the first n numbers of the Fibonacci series.
+
+Level 3: Intermediate (Data Structures)
+
+Focus: Lists, tuples, dictionaries, sets.
+
+Questions:
+11. Unique Elements
+Input a list and print only the unique elements.
+12. Word Frequency Counter
+Ask the user for a sentence, then print how many times each word appears.
+13. Shopping Cart
+Create a dictionary with product names as keys and prices as values. Ask the user for products to buy and calculate the total cost.
+14. Matrix Addition
+Add two 2x2 matrices given as lists of lists.
+15. Grades Dictionary
+Store student names and marks in a dictionary, then print the name of the student with the highest marks.
+
+Level 4: Intermediate-Advanced (File Handling & OOP)
+
+Focus: File read/write, exceptions, classes.
+
+Questions:
+16. File Writer & Reader
+Write a program to save a list of strings into a file and then read them back.
+17. Exception Handling
+Write a program that takes a number and divides 100 by it. Handle division by zero errors.
+18. Bank Account Class
+Create a BankAccount class with deposit, withdraw, and balance methods.
+19. Student Class
+Create a class for students with attributes like name, roll number, and marks, and a method to display details.
+20. Contact Book
+Create a contact book program that stores names, phone numbers, and emails in a file.
+
+Level 5: Advanced
+
+Focus: Modules, APIs, decorators, generators.
+
+Questions:
+21. Weather API
+Fetch and print weather information using a public API.
+22. CSV Data Analysis
+Read a CSV file of marks and calculate the average.
+23. Decorator Example
+Write a decorator that logs the execution time of a function.
+24. Generator Example
+Write a generator that yields even numbers up to n.
+25. Mini Project: To-Do App
+Build a command-line to-do list app with add, view, and delete options, storing tasks in a file.
