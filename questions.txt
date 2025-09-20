@@ -1,0 +1,78 @@
+
+### Basics & Control Flow
+
+#1. Write a python program of hello world.
+#2. Write a python program to store a name in a variable and print it.
+#3. Write a python program to take the user's name as input and greet them.
+#4. Write a python program to add two numbers provided by the user.
+#5. Write a python program to calculate the area of a rectangle using user-provided length and width.
+#6. Write a python program to check if a number is even or odd.
+#7. Write a python program to find the largest of three numbers.
+#8. Write a python program that takes a score (0-100) and prints the corresponding grade (A, B, C, D, F).
+#9. Write a python program to check if a year is a leap year.
+#10. Write a python program to print numbers from 1 to 10 using a `for` loop.
+#11. Write a python program to print numbers from 10 down to 1 using a `while` loop.
+#12. Write a python program to calculate the sum of all numbers from 1 to 100.
+#13. Write a python program to print the multiplication table of a given number.
+#14. Write a python program to find the factorial of a number.
+#15. Write a python program to print a right-angled triangle pattern using asterisks.
+
+---
+
+### Data Structures (Lists, Tuples, Dictionaries, Sets)
+
+#16. Write a python program to create a list of fruits and print each fruit.
+#17. Write a python program to find the sum and average of all numbers in a list.
+#18. Write a python program to find the largest and smallest number in a list without using `max()` or `min()`.
+#19. Write a python program to reverse a list.
+#20. Write a python program to remove duplicate elements from a list.
+#21. Write a python program to find common elements between two lists.
+#22. Write a python program to swap the first and last elements of a tuple.
+#23. Write a python program to create a dictionary representing a person (name, age, city) and print its values.
+#24. Write a python program to count the frequency of each word in a given sentence.
+#25. Write a python program to find the union and intersection of two sets.
+
+---
+
+### Functions & String Manipulation
+
+#26. Write a python program to create a function that takes two numbers and returns their sum.
+#27. Write a python program to create a function that checks if a number is prime.
+#28. Write a python program to calculate the factorial of a number using recursion.
+#29. Write a python program to check if a string is a palindrome.
+#30. Write a python program to count the number of vowels and consonants in a string.
+#31. Write a python program to reverse a string without using slicing `[::-1]`.
+#32. Write a python program to check if two strings are anagrams.
+#33. Write a python program to capitalize the first letter of each word in a sentence.
+#34. Write a python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically.
+#35. Write a python program to create a function with default arguments.
+
+---
+
+### File Handling & Error Handling
+
+#36. Write a python program to read the content of a text file and print it.
+#37. Write a python program to write a list of strings to a new text file.
+#38. Write a python program to count the number of lines, words, and characters in a file.
+#39. Write a python program to handle a `ZeroDivisionError` exception.
+#40. Write a python program that takes two numbers as input and divides them, handling both `ValueError` (if input is not a number) and `ZeroDivisionError`.
+
+---
+
+### Object-Oriented Programming (OOP)
+
+#41. Write a python program to create a `Car` class with attributes like `make`, `model`, and `year`.
+#42. Write a python program to add a method to the `Car` class that displays its details.
+#43. Write a python program to create an object of the `Car` class and call its display method.
+#44. Write a python program to create a child class `ElectricCar` that inherits from the `Car` class and has an additional attribute `battery_size`.
+#45. Write a python program to demonstrate method overriding by creating a `display` method in the `ElectricCar` class.
+
+---
+
+### Advanced Concepts
+
+#46. Write a python program to use a list comprehension to create a list of squares of numbers from 1 to 10.
+#47. Write a python program to use a lambda function to find the sum of two numbers.
+#48. Write a python program to use the `map` function to double every number in a list.
+#49. Write a python program to use the `filter` function to get all the even numbers from a list.
+#50. Write a python program to implement a binary search algorithm.
